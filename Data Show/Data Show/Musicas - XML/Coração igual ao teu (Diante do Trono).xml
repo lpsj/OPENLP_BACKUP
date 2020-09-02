@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-13T13:43:53">
+  <properties>
+    <titles>
+      <title>Coração igual ao teu</title>
+      <title>35- Coração igual ao teu</title>
+    </titles>
+    <authors>
+      <author>Diante do Trono</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se Tu olhares, Senhor<br/>Pra dentro de mim<br/>Nada encontrarás de bom</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mas um desejo eu tenho<br/>De ser transformado<br/>Preciso tanto do Teu perdão<br/>Dá-me um novo coração</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dá-me um coração igual ao Teu<br/>Meu mestre<br/>Dá-me um coração igual ao Teu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Coração disposto a obedecer<br/>Cumprir todo o Teu querer<br/>Dá-me um coração igual ao Teu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ensina-me a amar o meu irmão<br/>A olhar com Teus olhos<br/>Perdoar com o Teu perdão</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Enche-me com Teu Espírito<br/>Endireita os meus caminhos<br/>Ó Deus<br/>Dá-me um novo coração</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Enche-me com Teu Espírito<br/>Endireita os meus caminhos<br/>Ó Deus<br/>Dá-me um novo coração</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dá-me um coração igual ao Teu<br/>Meu mestre<br/>Dá-me um coração igual ao Teu</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Coração disposto a obedecer<br/>Cumprir todo o Teu querer<br/>Dá-me um coração igual ao Teu</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Coração disposto a obedecer<br/>Cumprir todo o Teu querer<br/>Dá-me um coração igual ao Teu</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Dá-me um coração igual ao Teu</lines>
+    </verse>
+  </lyrics>
+</song>

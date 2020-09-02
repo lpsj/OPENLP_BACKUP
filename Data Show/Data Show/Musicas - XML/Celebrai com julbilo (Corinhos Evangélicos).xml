@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-24T16:52:12">
+  <properties>
+    <titles>
+      <title>Celebrai com julbilo</title>
+      <title>Celebrai com julbilo</title>
+    </titles>
+    <authors>
+      <author>Corinhos Evangélicos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Celebrai com júbilo ao Senhor<br/>Todos os moradores da terra<br/>Servi ao Senhor com alegria<br/>Apresentai-vos a Ele com cânticos</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sabei que o Senhor é Deus<br/>E eterna é a sua bondade<br/>E a sua fidelidade, de geração, a geração</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aleluia, glória e aleluia<br/>Aleluia, glória e aleluia<br/>Aleluia, glória e aleluia<br/>Aleluia, glória e aleluia</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Celebrai com júbilo ao Senhor<br/>Todos os moradores da terra<br/>Servi ao Senhor com alegria<br/>Apresentai-vos a Ele com cânticos</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sabei que o Senhor é Deus<br/>E eterna é a sua bondade<br/>E a sua fidelidade, de geração, a geração</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aleluia, glória e aleluia<br/>Aleluia, glória e aleluia<br/>Aleluia, glória e aleluia<br/>Aleluia, glória e aleluia<br/>(x2)</lines>
+    </verse>
+  </lyrics>
+</song>

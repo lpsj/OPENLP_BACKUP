@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-16T23:41:30">
+  <properties>
+    <titles>
+      <title>O novo de Deus</title>
+    </titles>
+    <authors>
+      <author>Ministério Sarando A Terra Ferida</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Novos sonhos<br/>Novas realizações<br/>Esperam por ti</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Novos planos<br/>Novas conquistas<br/>Esperam por nós</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O olho não viu,<br/> o ouvido não ouviu<br/>O que Deus preparou para nós<br/>O que Deus preparou para nós</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Família, pode sonhar<br/>Mãe, teu filho vai voltar<br/>Pai, na mesa o pão não<br/>vai faltar, não vai faltar!</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Promessas se cumprirão<br/>Bênçãos te seguirão<br/>E o que passou, passou</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>O novo de Deus chegou<br/>O novo de Deus chegou</lines>
+    </verse>
+    <verse name="v7a">
+      <lines/>
+    </verse>
+    <verse name="v7b">
+      <lines>Novos sonhos<br/>Novas realizações<br/>Esperam por ti</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Novos planos<br/>Novas conquistas<br/>Esperam por nós</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>O olho não viu,<br/> o ouvido não ouviu<br/>O que Deus preparou<br/> para nós</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>O que Deus preparou<br/> para nós</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>Família, pode sonhar<br/>Mãe, teu filho vai voltar<br/>Pai, na mesa o pão não<br/>vai faltar, não vai faltar!</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Promessas se cumprirão<br/>Bênçãos te seguirão<br/>E o que passou, passou</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>O novo de Deus chegou<br/>O novo de Deus chegou</lines>
+    </verse>
+    <verse name="v7c">
+      <lines>Família, pode sonhar<br/>Mãe, teu filho vai voltar<br/>Pai, na mesa o pão não<br/>vai faltar, não vai faltar!</lines>
+    </verse>
+    <verse name="v5c">
+      <lines>Promessas se cumprirão<br/>Bênçãos te seguirão<br/>E o que passou, passou</lines>
+    </verse>
+    <verse name="v6c">
+      <lines>O novo de Deus chegou<br/>O novo de Deus chegou<br/>O novo de Deus chegou<br/>O novo de Deus chegou</lines>
+    </verse>
+  </lyrics>
+</song>

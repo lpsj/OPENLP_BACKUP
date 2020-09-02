@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="2.0">
+    <name>Biblia 2 - Letra menor</name>
+    <background type="image">
+        <filename>A-Bíblia-Sagrada-e1474319623962.jpg</filename>
+        <borderColor>#000000</borderColor>
+    </background>
+    <font type="main">
+        <name>Berlin Sans FB</name>
+        <color>#FFFFFF</color>
+        <size>55</size>
+        <bold>False</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="691" override="False" width="1004" x="10" y="0"/>
+        <shadow shadowColor="#000000" shadowSize="5">False</shadow>
+        <outline outlineColor="#000000" outlineSize="2">True</outline>
+    </font>
+    <font type="footer">
+        <name>Arial</name>
+        <color>#FFFFFF</color>
+        <size>30</size>
+        <bold>False</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="77" override="False" width="1004" x="10" y="691"/>
+        <shadow shadowColor="#000000" shadowSize="5">True</shadow>
+        <outline outlineColor="#000000" outlineSize="2">False</outline>
+    </font>
+    <display>
+        <horizontalAlign>2</horizontalAlign>
+        <verticalAlign>1</verticalAlign>
+        <slideTransition>False</slideTransition>
+    </display>
+</theme>

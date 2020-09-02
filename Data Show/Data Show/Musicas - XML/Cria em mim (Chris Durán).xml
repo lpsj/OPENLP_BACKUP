@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-17T17:11:43">
+  <properties>
+    <titles>
+      <title>Cria em mim</title>
+      <title>21- Cria em mim</title>
+    </titles>
+    <authors>
+      <author>Chris Durán</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cria em mim, ó Deus<br/>Um coração puro<br/>E renova em mim<br/>Um espírito reto</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pra te servir, como tu queres<br/>Pra te amar, como me amas<br/>Pois eu sei, Senhor, só Tu és santo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pra te servir, como tu queres<br/>Pra te amar, como me amas<br/>Pois eu sei, Senhor, só Tu és santo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cria em mim, ó Deus<br/>Um novo coração<br/>Cria em mim, ó Deus<br/>Um coração cheio de amor</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Renova em mim, Senhor<br/>A verdadeira santidade<br/>Restaura em mim, Senhor<br/>Um verdadeiro adorador</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pra te servir, como tu queres<br/>Pra te amar, como me amas<br/>Pois eu sei, Senhor, só Tu és santo!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pra te servir, como tu queres<br/>Pra te amar, como me amas<br/>Pois eu sei, Senhor, só Tu és santo!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Pois eu sei, Senhor, só Tu és santo!</lines>
+    </verse>
+  </lyrics>
+</song>

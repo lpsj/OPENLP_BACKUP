@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-10T17:51:11">
+  <properties>
+    <titles>
+      <title>Sonda-me hó Deus</title>
+      <title>4- Sonda-me hó Deus</title>
+    </titles>
+    <authors>
+      <author>Comunidade Vida Cristã</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sonda- me oh Deus<br/>Tu conheces o meu coração<br/>Retira os espinhos<br/>Me unge com a Tua unção</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Conheces os meus pensamentos<br/>Prostado terei sentimentos<br/>Te agradar oh Senhor é o meu maior prazer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se subo aos céus Tua presença comigo está<br/>Se desço ao abismo Tua destra me guiará<br/>Por terras e mares verei Tua unção</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Presença constante no meu coração <br/>Tua glória me faz muito mais que vencedor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E andando por um vale seco<br/>Tu fazes um manancial<br/>E bebendo dessa água viva<br/>Sinto forças sem igual</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tenho sede do Deus vivo<br/>Minha alma precisa de Ti<br/>Quero Te louvar<br/>E neste vale Te adorar</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Se subo aos céus Tua presença comigo está<br/>Se desço ao abismo Tua destra me guiará<br/>Por terras e mares verei Tua unção</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Presença constante no meu coração <br/>Tua glória me faz muito mais que vencedor</lines>
+    </verse>
+    <verse name="c3">
+      <lines>E andando por um vale seco<br/>Tu fazes um manancial<br/>E bebendo dessa água viva<br/>Sinto forças sem igual</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Tenho sede do Deus vivo<br/>Minha alma precisa de Ti<br/>Quero Te louvar<br/>E neste vale Te adorar</lines>
+    </verse>
+    <verse name="c5">
+      <lines>E andando por um vale seco<br/>Tu fazes um manancial<br/>E bebendo dessa água viva<br/>Sinto forças sem igual</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Tenho sede do Deus vivo<br/>Minha alma precisa de Ti<br/>Quero Te louvar<br/>E neste vale Te adorar</lines>
+    </verse>
+    <verse name="c7">
+      <lines>Quero Te louvar<br/>E neste vale Te adorar</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-24T22:40:23">
+  <properties>
+    <titles>
+      <title>A Casa É Sua</title>
+      <title>87- A Casa É Sua</title>
+    </titles>
+    <authors>
+      <author>Julliany Souza</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu és bem vindo aqui<br/>A casa é sua, pode entrar<br/>Me esvazio de mim<br/>Me esvazio de mim</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sopra teu vento aqui<br/>Toma o teu trono<br/>Vem reinar<br/>Nós queremos te ouvir<br/>Nós queremos te ouvir</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Essa casa é sua casa<br/>Nós deixamos ela pro Senhor, Jesus!<br/>(2x)</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Sopra teu vento aqui<br/>Toma o teu trono<br/>Vem reinar<br/>Nós queremos te ouvir<br/>Nós queremos te ouvir</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Essa casa é sua casa<br/>Nós deixamos ela pro Senhor, Jesus!<br/>(2x)</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Apareça, que o Teu nome cresça<br/>Enche este lugar<br/>Enche este lugar</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Apareça, que o Teu nome cresça<br/>Vem me incendiar<br/>Vem me incendiar</lines>
+    </verse>
+    <verse name="v5c">
+      <lines>Apareça, que o Teu nome cresça<br/>Enche este lugar<br/>Enche este lugar</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Apareça, que o Teu nome cresça<br/>Vem me incendiar<br/>Vem me incendiar</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Essa casa é sua casa<br/>Nós deixamos ela pro Senhor, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

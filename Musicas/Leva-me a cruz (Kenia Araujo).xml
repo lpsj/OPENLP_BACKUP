@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-19T23:42:41">
+  <properties>
+    <titles>
+      <title>Leva-me a cruz</title>
+      <title>51- Leva-me a cruz</title>
+    </titles>
+    <authors>
+      <author>Kenia Araujo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meu salvador, eu venho aqui lembrar-me<br/>Da cruz onde eu fui resgatado por Ti,<br/>Por Teu sangue<br/>Tudo de valor pra mim já não importa mais</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leva-me a cruz onde encontro o amor<br/>Quero me humilhar, eu me prostro a Ti</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem me esvaziar e me encher de Ti<br/>Oh leva-me, leva me a cruz</lines>
+    </verse>
+    <verse name="v4">
+      <lines/>
+    </verse>
+    <verse name="v5">
+      <lines>Igual a mim Tu foste senhor, tentado<br/>Morrestes por fim, e agora estas exaltado<br/>Tudo de valor pra mim já não importa mais</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Leva-me a cruz onde encontro o amor<br/>Quero me humilhar, eu me prostro a Ti</lines>
+    </verse>
+    <verse name="v7a">
+      <lines>Vem me esvaziar e me encher de Ti<br/>Oh leva-me, leva me a cruz</lines>
+    </verse>
+    <verse name="v7b">
+      <lines>Pra te adorar<br/>Pra te adorar<br/>Só pra te adorar<br/>Só pra te adorar</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Leva-me a cruz onde encontro o amor<br/>Quero me humilhar, eu me prostro a Ti</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Vem me esvaziar e me encher de Ti<br/>Leva me</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Leva-me a cruz onde encontro o amor<br/>Quero me humilhar, eu me prostro a Ti</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Vem me esvaziar e me encher de Ti<br/>Leva me, leva-me a cruz</lines>
+    </verse>
+  </lyrics>
+</song>

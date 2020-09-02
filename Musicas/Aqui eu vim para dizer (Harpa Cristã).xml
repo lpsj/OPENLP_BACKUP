@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-26T23:36:36">
+  <properties>
+    <titles>
+      <title>Aqui eu vim para dizer</title>
+      <title>2- Aqui eu vim para dizer</title>
+    </titles>
+    <authors>
+      <author>Harpa Cristã</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aqui eu vim para dizer<br/>Que quero mais te conhecer</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Minha'alma tem sede de ti<br/>Oh! Espírito santo<br/>Estou aqui</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Aqui eu vim para dizer<br/>Que quero mais te conhecer</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Minha'alma tem sede de ti<br/>Oh! Espírito santo<br/>Estou aqui</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Vem espírito de Deus!<br/>Vem espírito de Deus!<br/>O meu coração é o Teu altar</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem espírito de Deus!<br/>Vem espírito de Deus!<br/>O meu coração é o Teu altar</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Flui espírito de Deus<br/>Flui aqui neste lugar<br/>Flui sobre mim</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ministra o teu propósito<br/>O meu coração é o Teu altar<br/>O meu coração é o Teu altar</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Vem espírito de Deus!<br/>Vem espírito de Deus!<br/>O meu coração é o Teu altar</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Vem espírito de Deus!<br/>Vem espírito de Deus!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>O meu coração é o Teu altar<br/>O meu coração é o Teu altar</lines>
+    </verse>
+  </lyrics>
+</song>

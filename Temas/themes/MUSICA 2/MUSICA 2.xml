@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="2.0">
+    <name>MUSICA 2</name>
+    <background type="image">
+        <filename>2.jpg</filename>
+        <borderColor>#000000</borderColor>
+    </background>
+    <font type="main">
+        <name>Berlin Sans FB Demi</name>
+        <color>#000000</color>
+        <size>65</size>
+        <bold>False</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="691" override="False" width="1346" x="10" y="0"/>
+        <shadow shadowColor="#000000" shadowSize="5">False</shadow>
+        <outline outlineColor="#ffffff" outlineSize="1">True</outline>
+    </font>
+    <font type="footer">
+        <name>Century751 No2 BT</name>
+        <color>#aa0000</color>
+        <size>30</size>
+        <bold>False</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="70" override="True" width="1346" x="10" y="691"/>
+        <shadow shadowColor="#000000" shadowSize="5">True</shadow>
+        <outline outlineColor="#000000" outlineSize="2">False</outline>
+    </font>
+    <display>
+        <horizontalAlign>2</horizontalAlign>
+        <verticalAlign>1</verticalAlign>
+        <slideTransition>False</slideTransition>
+    </display>
+</theme>

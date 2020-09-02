@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-13T21:32:02">
+  <properties>
+    <titles>
+      <title>Ressucitou</title>
+      <title>5- Ressucistou</title>
+    </titles>
+    <authors>
+      <author>Corinhos Evangélicos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ressuscitou!<br/>Ressuscitou!<br/>Ressuscitou!<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Venceu a morte, venceu o mal, <br/>Venceu as trevas, Jesus ressuscitou! <br/>Venceu a morte, venceu o mal, <br/>Venceu as trevas, Jesus ressuscitou! </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ressuscitou!<br/>Ressuscitou!<br/>Ressuscitou!<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Oh morte!<br/>Onde está, oh morte<br/>A tua vitória?<br/>Jesus ressuscitou!</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Oh morte!<br/>Onde está, oh morte<br/>A tua vitória?<br/>Jesus ressuscitou!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ressuscitou!<br/>Ressuscitou!<br/>Ressuscitou!<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ressuscitou!<br/>Ressuscitou!<br/>Ressuscitou!<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ressuscitou!</lines>
+    </verse>
+  </lyrics>
+</song>

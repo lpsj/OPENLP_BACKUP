@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-17T19:09:21">
+  <properties>
+    <titles>
+      <title>Meu alvo</title>
+      <title>41- Meu alvo</title>
+    </titles>
+    <authors>
+      <author>Kleber Lucas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Estou subindo pra um lugar mais alto<br/>Eu já queimei as pontes com o passado<br/>E em meus olhos vejo o futuro</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudo novo se fez, tudo novo se faz<br/>E dessa estrada eu não me desvio nunca mais<br/>Estou firme, eu não me desvio nunca mais</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vou avançar, eu vou crescer<br/>Ninguém vai me deter<br/>Meu alvo é Cristo, meu alvo é Cristo (x2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vou avançar, eu vou crescer<br/>Ninguém vai me deter<br/>Meu alvo é Cristo, meu alvo é Cristo</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Estou subindo pra um lugar mais alto<br/>Eu já desisti de andar sozinho<br/>Cristo vive em mim</lines>
+    </verse>
+    <verse name="v6">
+      <lines>E os meus pés estão no caminho, estão no caminho<br/>E dessa estrada eu não me desvio nunca mais<br/>Estou firme, eu não me desvio nunca mais</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Vou avançar, eu vou vencer<br/>Ninguém vai me deter,<br/>Meu alvo é Cristo, meu alvo é Cristo (x2)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vou avançar, eu vou vencer<br/>Ninguém vai me deter,<br/>Meu alvo é Cristo, meu alvo é Cristo (x2)</lines>
+    </verse>
+  </lyrics>
+</song>

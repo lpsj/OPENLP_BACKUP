@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-17T16:47:09">
+  <properties>
+    <titles>
+      <title>Entrego a Ti</title>
+      <title>63- Entrego a ti</title>
+    </titles>
+    <authors>
+      <author>Igreja Batista de Nova Jerusalém</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Entrego a Ti<br/>A minha oração<br/>Pois Tú ÉS Senhor<br/>Fonte de águas vivas que a mim</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>És a minha esperança eu descanço em Ti<br/>Posso confiar<br/>Que a vitória está por vir</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Seguro estou em Ti<br/>Tú És o Deus de amor<br/>Eu não temerei o mal<br/>Tú És o Grande Eu Sou</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>eu ergo minhas mãos <br/>Preciso receber<br/>A Tua palavra óh Deus<br/>Que me fará vencer</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Entrego a Ti<br/>A minha oração<br/>Pois Tú ÉS Senhor<br/>Fonte de águas vivas que a mim</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>És a minha esperança eu descanço em Ti<br/>Posso confiar<br/>Que a vitória está por vir</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Seguro estou em Ti<br/>Tú És o Deus de amor<br/>Eu não temerei o mal<br/>Tú És o Grande Eu Sou</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>eu ergo minhas mãos <br/>Preciso receber<br/>A Tua palavra óh Deus<br/>Que me fará vencer</lines>
+    </verse>
+  </lyrics>
+</song>
