@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-29T23:21:41">
+  <properties>
+    <titles>
+      <title>Quando Ele Vem</title>
+      <title>77- O que fazer quando ele vem</title>
+    </titles>
+    <authors>
+      <author>André Aquino</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nosso amigo Santo Espírito<br/>Venha aquecer os corações</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Vem com cura e todo Seu poder<br/>Vem manifestar os Seus sinais</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>O que dizer?<br/>O Que fazer quando Ele vem aqui?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mais que ser bem-vindo<br/>Nós Te desejamos outra vez aqui</lines>
+    </verse>
+    <verse name="v4">
+      <lines/>
+    </verse>
+    <verse name="v5a">
+      <lines>Nosso amigo Santo Espírito<br/>Esperamos pelo Seu soprar</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Com Seu óleo venha nos ungir<br/>E com Seu fogo vem nos batizar</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O que dizer?<br/>O Que fazer quando Ele vem aqui?</lines>
+    </verse>
+    <verse name="v7a">
+      <lines>Mais que ser bem-vindo<br/>Nós Te desejamos outra vez aqui</lines>
+    </verse>
+    <verse name="v8a">
+      <lines>O que dizer?<br/>O Que fazer quando Ele vem aqui?</lines>
+    </verse>
+    <verse name="v7b">
+      <lines>Mais que ser bem-vindo<br/>Nós Te desejamos outra vez aqui</lines>
+    </verse>
+    <verse name="v8b">
+      <lines/>
+    </verse>
+    <verse name="v9">
+      <lines>Faz de novo<br/>Faz de novo<br/>O Seu povo<br/>Clama a Ti </lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mais uma vez de novo<br/>Faz de novo<br/>O Seu povo<br/>Clama a Ti (3x)</lines>
+    </verse>
+    <verse name="v11">
+      <lines>O que dizer?<br/>O Que fazer quando Ele vem aqui?</lines>
+    </verse>
+    <verse name="v12a">
+      <lines>Mais que ser bem-vindo<br/>Nós Te desejamos outra vez aqui<br/>O que dizer?<br/>O Que fazer quando Ele vem aqui?</lines>
+    </verse>
+    <verse name="v12b">
+      <lines>Mais que ser bem-vindo<br/>Nós Te desejamos outra vez aquii</lines>
+    </verse>
+  </lyrics>
+</song>

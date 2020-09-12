@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-29T23:13:31">
+  <properties>
+    <titles>
+      <title>Yeshua</title>
+      <title>40- Yeshua</title>
+    </titles>
+    <authors>
+      <author>Heloísa Rosa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu não consigo entender<br/>O que eu fiz pra merecer</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Rei que homem se tornou<br/>E os meus pecados suportou</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seu nome é Emanuel<br/>O Rei dos Reis<br/>É o Senhor</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Num gesto simples de amor<br/>Num jumentinho triunfou</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Bendito é o Rei que vem<br/>Que vem em nome do Senhor<br/>Toda Terra canta ao Messias</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>A morte não pôde deter<br/>O sangue derramado foi<br/>Ao terceiro dia, ressuscitou</lines>
+    </verse>
+    <verse name="v7a">
+      <lines>Seu nome é Emanuel<br/>O Rei dos Reis<br/>É o Senhor</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Num gesto simples de amor<br/>Num jumentinho triunfou</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Bendito é o Rei que vem<br/>Que vem em nome do Senhor<br/>Toda Terra canta ao Messias</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>A morte não pôde deter<br/>O sangue derramado foi<br/>Ao terceiro dia, ressuscitou</lines>
+    </verse>
+    <verse name="v7b">
+      <lines>Yeshua, Yeshua<br/>Glória seja ao Rei<br/>Glorioso Salvador<br/>(4x)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bendito é o Rei que vem<br/>Que vem em nome do Senhor<br/>Toda Terra canta ao Messias</lines>
+    </verse>
+    <verse name="v6c">
+      <lines>A morte não pôde deter<br/>O sangue derramado foi<br/>Ao terceiro dia, ressuscitou</lines>
+    </verse>
+    <verse name="v7c">
+      <lines>Yeshua, Yeshua<br/>Glória seja ao Rei<br/>Glorioso Salvador<br/>(2x)</lines>
+    </verse>
+  </lyrics>
+</song>

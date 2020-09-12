@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-28T21:43:27">
+  <properties>
+    <titles>
+      <title>Fala comigo</title>
+      <title>18- Fala comigo</title>
+    </titles>
+    <authors>
+      <author>Regis Danese</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To precisando ouvir a tua voz<br/>Falando ao meu coração<br/>Fala comigo quando estou só<br/>Ou no meio da multidão</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To precisando ouvir a tua voz<br/>Falando ao meu coração<br/>Fala comigo quando estou só<br/>Ou no meio da multidão</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Preciso te ouvir<br/>Pra tomar uma decisão<br/>Não quero agir sem a tua direção</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Fala comigo na tua palavra<br/>Fala comigo através do louvor<br/>Fala comigo de madrugada</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Me mostre em sonhos, se preciso for</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fala comigo na tua palavra<br/>Fala comigo através do louvor<br/>Fala comigo de madrugada</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Me mostre em sonhos, se preciso for</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Preciso te ouvir<br/>Pra tomar uma decisão<br/>Não quero agir sem a tua direção</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Fala comigo na tua palavra<br/>Fala comigo através do louvor<br/>Fala comigo de madrugada<br/>Me mostre em sonhos, se preciso for</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Fala comigo na tua palavra<br/>Fala comigo através do louvor<br/>Fala comigo de madrugada<br/>Me mostre em sonhos, se preciso for</lines>
+    </verse>
+  </lyrics>
+</song>

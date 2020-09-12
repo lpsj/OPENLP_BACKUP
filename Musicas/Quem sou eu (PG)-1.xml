@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-29T23:16:09">
+  <properties>
+    <titles>
+      <title>Quem sou eu</title>
+      <title> Quem sou eu</title>
+    </titles>
+    <authors>
+      <author>PG</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quem sou eu?<br/>Pra que o Deus de toda Terra<br/>Se preocupe com meu nome<br/>Se preocupe com minha dor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quem sou eu?<br/>Pra que a Estrela da manhã<br/>Ilumine o caminho<br/>Deste duro coração</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não apenas por quem sou<br/>Mas porque Tu és fiel<br/>Nem por tudo o que eu faça<br/>Mas por tudo o que Tu és</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eu sou como um vento passageiro<br/>Que aparece e vai embora<br/>Como onda no oceano<br/>Assim como o vapor</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E ainda escutas quando eu chamo<br/>Me sustentas quando eu clamo<br/>Me dizendo quem eu sou</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eu sou Teu<br/>Eu sou Teu</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Quem sou eu?<br/>Pra ser visto com amor<br/>Mesmo em meio ao pecado<br/>Tu me fazes levantar</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Quem sou eu?<br/>Pra que a voz que acalma o mar<br/>E acaba com a tormenta<br/>Que se faz dentro de mim</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Não apenas por quem sou<br/>Mas porque Tu és fiel<br/>Nem por tudo o que eu faça<br/>Mas por tudo o que Tu és</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Eu sou como um vento passageiro<br/>Que aparece e vai embora<br/>Como onda no oceano<br/>Assim como o vapor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E ainda escutas quando eu chamo<br/>Me sustentas quando eu clamo<br/>Me dizendo quem eu sou</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Eu sou Teu</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Não apenas por quem sou<br/>Mas porque Tu és fiel<br/>Nem por tudo o que eu faça<br/>Mas por tudo o que Tu és</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Eu sou como um vento passageiro<br/>Que aparece e vai embora<br/>Como onda no oceano<br/>Assim como o vapor</lines>
+    </verse>
+    <verse name="c5">
+      <lines>E ainda escutas quando eu chamo<br/>Me sustentas quando eu clamo<br/>Me dizendo quem eu sou</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Eu sou Teu<br/>Eu sou Teu</lines>
+    </verse>
+  </lyrics>
+</song>

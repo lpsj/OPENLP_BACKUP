@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-29T23:29:37">
+  <properties>
+    <titles>
+      <title>Oh senhor</title>
+      <title>06- Oh senhor</title>
+    </titles>
+    <authors>
+      <author>Ministério Koinonya de Louvor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Senhor, eu quero estar<br/>Disponível em Tuas mãos<br/>Minha vida em Teu altar<br/>Em total consagração</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eu nasci pra Te servir<br/>Sou escravo da Tua graça<br/>Vem minha vida dirigir<br/>És o oleiro<br/>Eu sou barro em Tuas mãos</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Senhor, Tu És meu Deus<br/>És o oleiro e eu sou o barro<br/>Ó Senhor, Tu És meu Deus<br/>Faça em mim, Senhor<br/>Segundo o teu querer</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, Senhor, eu quero estar<br/>Disponível em Tuas mãos<br/>Minha vida em Teu altar<br/>Em total consagração</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eu nasci pra Te servir<br/>Sou escravo da Tua graça<br/>Vem minha vida dirigir<br/>És o oleiro<br/>Eu sou barro em Tuas mãos</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó Senhor, Tu És meu Deus<br/>És o oleiro e eu sou o barro<br/>Ó Senhor, Tu És meu Deus<br/>Faça em mim, Senhor<br/>Segundo o teu querer</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ó Senhor, Tu És meu Deus<br/>És o oleiro e eu sou o barro<br/>Ó Senhor, Tu És meu Deus<br/>Faça em mim, Senhor<br/>Segundo o teu querer</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Faça em mim, Senhor<br/>Segundo o teu querer</lines>
+    </verse>
+  </lyrics>
+</song>

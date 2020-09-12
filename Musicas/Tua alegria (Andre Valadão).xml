@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-29T23:24:16">
+  <properties>
+    <titles>
+      <title>Tua alegria</title>
+      <title>84- Tua alegria</title>
+    </titles>
+    <authors>
+      <author>Andre Valadão</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tu me amas como sou<br/>Mas não me deixas como estou</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Seguir Teus passos sempre vou<br/>Rumo ao encontro do Teu amor</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O Teu amor é maior que a vida<br/>Me traz paz e alegria</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Com Teu perfume quero me encher<br/>E a cada instante mais Te conhecer</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Tua verdade é a luz<br/>Que me conduz para o céu<br/>Tua palavra é o remédio que cura todo meu ser</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Tua alegria em minha vida<br/>Me fortalece a cada novo dia<br/>Tua alegria é minha vida</lines>
+    </verse>
+    <verse name="v7a">
+      <lines>Recebo dela hoje agora<br/>(4x)</lines>
+    </verse>
+    <verse name="v8a">
+      <lines/>
+    </verse>
+    <verse name="v1b">
+      <lines>Tu me amas como sou<br/>Mas não me deixas como estou</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Seguir Teus passos sempre vou<br/>Rumo ao encontro do Teu amor</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>O Teu amor é maior que a vida<br/>Me traz paz e alegria</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Com Teu perfume quero me encher<br/>E a cada instante mais Te conhecer</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Tua verdade é a luz<br/>Que me conduz para o céu<br/>Tua palavra é o remédio que cura todo meu ser</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Tua alegria em minha vida<br/>Me fortalece a cada novo dia<br/>Tua alegria é minha vida<br/>Recebo dela hoje agora<br/>(2x)</lines>
+    </verse>
+    <verse name="v7b">
+      <lines>Recebo dela hoje agora<br/>(2x)</lines>
+    </verse>
+    <verse name="v8b">
+      <lines/>
+    </verse>
+    <verse name="v8c">
+      <lines>Tua verdade é a luz<br/>Que me conduz para o céu<br/>Tua palavra é o remédio que cura todo meu ser</lines>
+    </verse>
+    <verse name="v6c">
+      <lines>Tua alegria em minha vida<br/>Me fortalece a cada novo dia<br/>Tua alegria é minha vida<br/>Recebo dela hoje agora<br/>(2x)</lines>
+    </verse>
+    <verse name="v7c">
+      <lines>Recebo dela hoje agora<br/>(2x)</lines>
+    </verse>
+  </lyrics>
+</song>

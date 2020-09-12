@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-06-20T23:27:06">
+  <properties>
+    <titles>
+      <title>Só tu es santo</title>
+      <title>76- Só tu es santo</title>
+    </titles>
+    <authors>
+      <author>Ministério Morada</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tudo está preparado aqui<br/>A casa e o meu coração também<br/>Tu És o único motivo que me fez chegar</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Os filhos já estão chegando aqui<br/>Agora, somos dois ou três ou mais<br/>Encontre o meu coração disposto a queimar por Ti</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Todos os versos e canções que eu conseguir cantar<br/>Todas as vezes quebrantado, só quero te falar</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Teu é o Reino e a Glória pra sempre<br/>Teu é o domínio e o poder, amém, amém</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Teu é o Reino e a Glória pra sempre<br/>Teu é o domínio e o poder, amém, amém</lines>
+    </verse>
+    <verse name="v6a">
+      <lines/>
+    </verse>
+    <verse name="v1b">
+      <lines>Tudo está preparado aqui<br/>A casa e o meu coração também<br/>Tu És o único motivo que me fez chegar</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Os filhos já estão chegando aqui<br/>Agora, somos dois ou três ou mais<br/>Encontre o meu coração disposto a queimar por Ti</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Todos os versos e canções que eu conseguir cantar<br/>Todas as vezes quebrantado, só quero te falar</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Teu é o Reino e a Glória pra sempre<br/>Teu é o domínio e o poder, amém, amém</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Teu é o Reino e a Glória pra sempre<br/>Teu é o domínio e o poder, amém, amém</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Só Tu És Santo, Só Tu És Santo<br/>Não há outro como Tu<br/>Não há outro como Tu</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Não há outro como Tu<br/>Não há outro como Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

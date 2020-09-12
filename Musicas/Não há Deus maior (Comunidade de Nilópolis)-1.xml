@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-19T23:44:35">
+  <properties>
+    <titles>
+      <title>Não há Deus maior</title>
+      <title>30- Não há Deus maior</title>
+    </titles>
+    <authors>
+      <author>Comunidade de Nilópolis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Não há Deus maior<br/>Não há Deus melhor<br/>Não há Deus tão grande<br/>Como nosso Deus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não há Deus maior<br/>Não há Deus melhor<br/>Não há Deus tão grande<br/>Como nosso Deus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Criou os céus<br/>Criou a terra<br/>Criou o sol e as estrelas</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tudo ele fez, tudo criou<br/>Tudo formou</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Para o seu louvor<br/>Para o seu louvor<br/>Para o seu, para o seu<br/>Para o seu louvor</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Não há Deus maior<br/>Não há Deus melhor<br/>Não há Deus tão grande<br/>Como nosso Deus</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Criou os céus<br/>Criou a terra<br/>Criou o sol e as estrelas</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tudo ele fez, tudo criou<br/>Tudo formou</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Para o seu louvor<br/>Para o seu louvor<br/>Para o seu, para o seu<br/>Para o seu louvor</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Para o seu louvor</lines>
+    </verse>
+  </lyrics>
+</song>

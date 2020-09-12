@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-05-26T22:25:31">
+  <properties>
+    <titles>
+      <title>Batiza-me</title>
+    </titles>
+    <authors>
+      <author>Fernandinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sei que tem ciumes de mim<br/> Sei que clamas por mim<br/> Esperando estou por Teu agir<br/> Vento de Deus, sopra em mim<br/>(2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Batiza-me com Teu fogo<br/>Batiza-me com Teu fogo<br/>Santo, Santo, Santo Espírito<br/>(2x)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Me esvaziar de mim<br/>Me transbordar de Ti<br/> Os meus dias viverei pra Ti<br/> Espírito Santo<br/>(4x)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Batiza-me com Teu fogo<br/>Batiza-me com Teu fogo<br/>Santo, Santo, Santo Espírito<br/>(2x)</lines>
+    </verse>
+    <verse name="v8">
+      <lines/>
+    </verse>
+    <verse name="v9">
+      <lines>Me esvaziar de mim<br/>Me transbordar de Ti<br/> Os meus dias viverei pra Ti</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Batiza-me com Teu fogo<br/>Batiza-me com Teu fogo<br/>Santo, Santo, Santo Espírito</lines>
+    </verse>
+  </lyrics>
+</song>

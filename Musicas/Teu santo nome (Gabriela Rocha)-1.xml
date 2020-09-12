@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-02-09T22:23:14">
+  <properties>
+    <titles>
+      <title>Teu santo nome</title>
+      <title>72 - Teu santo nome</title>
+    </titles>
+    <authors>
+      <author>Gabriela Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Todo ser que vive <br/>louve o nome do Senhor<br/>Toda criatura se derrame<br/> aos Seus pés</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao som da Sua voz <br/>o universo se desfaz<br/>Não há outro nome<br/> comparado ao grande<br/> Eu Sou</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E mesmo sendo pó<br/>Com tudo que há em mim<br/>Confessarei</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que céus e terra passarão<br/>Mas o Teu nome é eterno</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Todo joelho dobrará<br/>Ao ouvir Teu nome<br/>Teu Santo nome</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Todo ser confessará<br/>Louvado seja o Teu nome<br/>Teu Santo nome</lines>
+    </verse>
+    <verse name="v7">
+      <lines>E mesmo sendo pó<br/>Com tudo que há em mim<br/>Confessarei</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Que céus e terra passarão<br/>Mas o Teu nome é Eterno</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Todo joelho dobrará<br/>Ao ouvir Teu nome<br/>Teu Santo nome</lines>
+    </verse>
+    <verse name="v10a">
+      <lines>Todo ser confessará<br/>Louvado seja o Teu nome<br/>Teu Santo nome</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Todo joelho dobrará<br/>Ao ouvir Teu nome<br/>Teu Santo nome</lines>
+    </verse>
+    <verse name="v10b">
+      <lines>Todo ser confessará<br/>Louvado seja o Teu nome<br/>Teu Santo nome</lines>
+    </verse>
+  </lyrics>
+</song>

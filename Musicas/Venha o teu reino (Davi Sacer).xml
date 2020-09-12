@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-07-30T23:01:55">
+  <properties>
+    <titles>
+      <title>Venha o teu reino</title>
+      <title>Venha o teu reino</title>
+    </titles>
+    <authors>
+      <author>Davi Sacer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Nosso Pai<br/>Que o Teu nome seja mantido santo<br/>Venha o Teu reino</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Dá-nos hoje o alimento necessário pra viver<br/>O pão de cada dia</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>perdoa os erros que temos cometido<br/>Como perdoamos quem nos ofendeu</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Não nos deixe cair em provações severas<br/>Mas livra-nos do mal</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Venha o Teu reino<br/>Faça a Tua vontade<br/>Seja assim na Terra como é no Céu</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Venha o Teu reino<br/>Faça a Tua vontade<br/>Seja assim na Terra como é no Céu</lines>
+    </verse>
+    <verse name="v7a">
+      <lines/>
+    </verse>
+    <verse name="v1b">
+      <lines>Nosso Pai<br/>Que o Teu nome seja mantido santo<br/>Venha o Teu reino</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Dá-nos hoje o alimento necessário pra viver<br/>O pão de cada dia</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Perdoa os erros que temos cometido<br/>Como perdoamos quem nos ofendeu</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Não nos deixe cair em provações severas<br/>Mas livra-nos do mal</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Venha o Teu reino<br/>Faça a Tua vontade<br/>Seja assim na Terra como é no Céu</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Venha o Teu reino<br/>Faça a Tua vontade<br/>Seja assim na Terra como é no Céu</lines>
+    </verse>
+    <verse name="v7b">
+      <lines/>
+    </verse>
+    <verse name="v7c">
+      <lines>Porque o reino, o poder e a glória<br/>São Teus para sempre<br/>Porque o reino, o poder e a glória</lines>
+    </verse>
+    <verse name="v8">
+      <lines>São Teus para sempre<br/>Amém<br/>Amém<br/>Amém</lines>
+    </verse>
+  </lyrics>
+</song>

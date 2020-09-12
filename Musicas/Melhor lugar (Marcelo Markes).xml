@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-05-28T23:01:44">
+  <properties>
+    <titles>
+      <title>Melhor lugar</title>
+      <title>82- Melhor lugar</title>
+    </titles>
+    <authors>
+      <author>Marcelo Markes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nada vai me separar do Teu amor, do Teu amor<br/>Nem a morte nem a vida vão me afastar do Teu amor (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus vem me abraçar<br/>Em Ti vou repousar<br/>Nos Teus braços<br/>É o melhor lugar (2x)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nada vai me separar do Teu amor, do Teu amor<br/>Nem a morte nem a vida vão me afastar do Teu amor (2x)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus vem me abraçar<br/>Em Ti vou repousar<br/>Nos Teus braços<br/>É o melhor lugar (2x)</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Leva- me a viver, a Tua vontade<br/>Leva-me a viver o Teu querer<br/>Eu quero descansar em você (4x)</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Jesus vem me abraçar<br/>Em Ti vou repousar<br/>Nos Teus braços<br/>É o melhor lugar (3x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:04:12">
+  <properties>
+    <titles>
+      <title>Aleluia</title>
+    </titles>
+    <authors>
+      <author>Gabriela Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pai, eu quero te amar<br/>Tocar o teu coração,<br/>E me derramar aos teus pés</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mais perto quero estar, Senhor<br/>E te adorar com tudo o que eu sou<br/>E te render glória e aleluia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aleluia, aleluia<br/>Aleluia, aleluia<br/>(2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quando lutas vierem me derrubar<br/>Firmado em ti eu estarei<br/>Pois tu és o meu refúgio, ó Deus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E não importa onde estiver<br/>No vale ou no monte, adorarei<br/>A ti eu canto glória e aleluia</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aleluia, aleluia<br/>Aleluia, aleluia<br/>(2x)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Senhor, preciso do teu olhar<br/>Ouvir as batidas do teu coração<br/>Me esconder nos teus braços, ó pai</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Toda minh'alma deseja a ti<br/>Junto com os anjos cantarei<br/>Tu és santo, exaltado, aleluia!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Aleluia, aleluia<br/>Aleluia, aleluia<br/>(3x)</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Aleluuuiiaa!!!</lines>
+    </verse>
+  </lyrics>
+</song>

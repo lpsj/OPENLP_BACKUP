@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-30T11:50:09">
+  <properties>
+    <titles>
+      <title>Em Teus Braços</title>
+      <title>05- Em Teus Braços</title>
+    </titles>
+    <authors>
+      <author>Laura Souguellis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Seguro estou nos braços<br/>D'Aquele que nunca me deixou</lines>
+      <lines>Seu amor perfeito sempre esteve<br/>Repousado em mim</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">E se eu passar pelo vale<br/>Acharei conforto em Teu amor</lines>
+      <lines>Pois eu sei que és aquele<br/>Que me guarda, me guardas</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Em Teus braços <br/>é meu descanso<br/>(4x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Seguro estou nos braços<br/>D'Aquele que nunca me deixou</lines>
+      <lines>Seu amor perfeito sempre esteve<br/>Repousado em mim</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">E se eu passar pelo vale<br/>Acharei conforto em Teu amor</lines>
+      <lines>Pois eu sei que és aquele<br/>Que me guarda, me guardas</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Em Teus braços<br/>é meu descanso<br/>(8x)</lines>
+    </verse>
+    <verse name="v8">
+      <lines/>
+    </verse>
+    <verse name="v9">
+      <lines>Recaio em Tua graça<br/>Recaio de novo em Tuas mãos<br/>(4x)</lines>
+    </verse>
+    <verse name="v10">
+      <lines break="optional">E se eu passar pelo vale<br/>Acharei conforto em Teu amor</lines>
+      <lines>Pois eu sei que és aquele<br/>Que me guarda, me guardas</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Em Teus braços é meu descanso<br/>(4x)</lines>
+    </verse>
+  </lyrics>
+</song>

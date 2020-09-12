@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-29T23:23:58">
+  <properties>
+    <titles>
+      <title>Sinto Fluir</title>
+      <title>83- Sinto Fluir</title>
+    </titles>
+    <authors>
+      <author>Marcelo Markes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu procurei em outro lugar<br/>Em outras pessoas<br/>Em tantas coisas<br/>(2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mas descobri Teu rio em mim<br/>E transbordei do Teu amor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sinto fluir Teu rio de vida aqui<br/>(2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eu procurei em outro lugar<br/>Em outras pessoas<br/>Em tantas coisas<br/>(2x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mas descobri Teu rio em mim<br/>E transbordei do Teu amor</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sinto fluir Teu rio de vida aqui<br/>(2x)</lines>
+    </verse>
+    <verse name="v7">
+      <lines break="optional">Eu quero beber de Tuas águas<br/>Eu quero beber da Tua fonte</lines>
+      <lines>Vou mergulhar no Teu rio<br/>Vou mergulhar no Teu rio </lines>
+    </verse>
+    <verse name="v10">
+      <lines>Sinto fluir Teu rio de vida aqui<br/>(2x)</lines>
+    </verse>
+  </lyrics>
+</song>

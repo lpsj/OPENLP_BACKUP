@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-19T23:54:48">
+  <properties>
+    <titles>
+      <title>Seu sangue</title>
+      <title>43- Seu Sangue</title>
+    </titles>
+    <authors>
+      <author>Fernandinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seu sangue, Sua cruz<br/>Me levam de volta pra Deus<br/>Sua morte, Sua vida<br/>As trevas, Ele já venceu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seu amor me conquistou<br/>Sou eterno devedor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O véu se rasgou<br/>Sua luz em mim brilhou<br/>Sua glória me cobriu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mais que vencedor eu sou<br/>Mais que vencedor eu sou</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sei que na sala do trono está<br/>Eu quero ir pra lá<br/>Pelo novo e vivo caminho</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sei que na sala do trono está<br/>Eu quero ir pra lá<br/>Pelo novo e vivo caminho</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Seu sangue, Sua cruz<br/>Me levam de volta pra Deus<br/>Sua morte, Sua vida<br/>As trevas, Ele já venceu</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Seu amor me conquistou<br/>Sou eterno devedor<br/>O véu se rasgou<br/>Sua luz em mim brilhou<br/>Sua glória me cobriu</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mais que vencedor eu sou<br/>Mais que vencedor eu sou</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Sei que na sala do trono está<br/>Eu quero ir pra lá<br/>Pelo novo e vivo caminho</lines>
+    </verse>
+  </lyrics>
+</song>

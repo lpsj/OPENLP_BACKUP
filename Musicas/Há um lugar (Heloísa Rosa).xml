@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-24T23:01:27">
+  <properties>
+    <titles>
+      <title>Há um lugar</title>
+      <title>52- Há um lugar</title>
+    </titles>
+    <authors>
+      <author>Heloísa Rosa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Há um lugar de descanso em Ti<br/>Há um lugar de refrigério em Ti<br/>Há um lugar onde a verdade reina<br/>Esse lugar é no Senhor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Há um lugar onde as pessoas não me influenciam<br/>Há um lugar onde eu ouço teu Espírito</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Há um lugar de vitória em meio à guerra<br/>Esse lugar é no Senhor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Esse lugar é no Senhor<br/>Esse lugar é no Senhor<br/>Esse lugar é no Senhor<br/>Esse lugar é no Senhor</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Há um lugar onde a inconstância não me domina<br/>Há um lugar onde minha fé é fortalecida</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Há um lugar onde a paz é quem governa<br/>Esse lugar é no Senhor</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Há um lugar onde os sonhos não se abortam<br/>Há um lugar onde o temor não me enrijece</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Há um lugar que quando se perde é que se ganha<br/>Esse lugar é no Senhor</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Esse lugar é no Senhor<br/>Esse lugar é no Senhor<br/>Esse lugar é no Senhor<br/>Esse lugar é no Senhor</lines>
+    </verse>
+    <verse name="v10">
+      <lines>És tudo o que eu preciso, Jesus!<br/>És tudo o que eu preciso, Jesus!<br/>És tudo o que eu preciso, Jesus!<br/>És tudo o que eu preciso!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-08-14T22:57:17">
+  <properties>
+    <titles>
+      <title>Santo Espírito</title>
+    </titles>
+    <authors>
+      <author>Laura Souguellis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Santo Espírito, és bem-vindo aqui<br/>Vem inundar, encher esse lugar<br/>É o desejo do meu coração<br/>Sermos inundados por Tua glória, Senhor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Santo Espírito, és bem-vindo aqui<br/>Vem inundar, encher esse lugar<br/>É o desejo do meu coração<br/>Sermos inundados por Tua glória, Senhor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não há nada igual<br/>Não há nada melhor<br/>A que se compara à esperança viva<br/>Tua presença</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eu provei e vi<br/>O mais doce amor<br/>Que liberta o meu ser</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E a vergonha desfaz<br/>Tua presença</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vamos provar quão real é Tua presença<br/>Vamos provar a Tua glória e bondade(2x)<br/></lines>
+    </verse>
+  </lyrics>
+</song>
